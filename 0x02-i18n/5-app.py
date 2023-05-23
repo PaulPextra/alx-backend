@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Task 5
-"""
+""" Task 5 """
 
 from flask import Flask, g, render_template, request
 from flask_babel import Babel
